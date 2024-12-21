@@ -6,7 +6,7 @@ A simple and interactive random quote generator built using HTML, CSS, and JavaS
 - Displays random quotes with a single click.
 - Clean and responsive design.
 
-## Usage
+## 📖 Usage
 1. Clone the repository:
 
     ```bash
@@ -25,12 +25,12 @@ A simple and interactive random quote generator built using HTML, CSS, and JavaS
 random-quote-generator-js/
 ├── assets/ 
 │ └── screenshot.png 
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet
+├── index.html
+├── style.css
 ├── quotes.json
 ├── LICENSE 
-├── script.js           # JavaScript functionality
-└── README.md           # Project documentation
+├── script.js
+└── README.md
 ```
 
 ## 🤝 Contributing
