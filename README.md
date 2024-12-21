@@ -21,7 +21,7 @@ A simple and interactive random quote generator built using HTML, CSS, and JavaS
 
 
 ## Directory Structure
-
+```plaintext
 random-quote-generator-js/
 ├── assets/ 
 │ └── screenshot.png 
@@ -30,7 +30,7 @@ random-quote-generator-js/
 ├── quotes.json         
 ├── script.js           # JavaScript functionality
 └── README.md           # Project documentation
-
+```
 
 ## Contributing
 
