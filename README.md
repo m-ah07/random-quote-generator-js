@@ -27,6 +27,7 @@ random-quote-generator-js/
 │ └── screenshot.png 
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
+├── quotes.json         
 ├── script.js           # JavaScript functionality
 └── README.md           # Project documentation
 
