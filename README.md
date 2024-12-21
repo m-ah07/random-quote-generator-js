@@ -2,7 +2,7 @@
 
 A simple and interactive random quote generator built using HTML, CSS, and JavaScript. Click the button to display a random inspirational quote.
 
-## Features
+## 🚀 Features
 - Displays random quotes with a single click.
 - Clean and responsive design.
 
@@ -15,12 +15,12 @@ A simple and interactive random quote generator built using HTML, CSS, and JavaS
 
 2. Open index.html in your browser to see the project in action.
 
-## Demo
+## 📸 Demo
 
 ![Random Quote Generator Demo](assets/screenshot.png "Demo of Random Quote Generator")
 
 
-## Directory Structure
+## 📂 Directory Structure
 ```plaintext
 random-quote-generator-js/
 ├── assets/ 
@@ -32,6 +32,6 @@ random-quote-generator-js/
 └── README.md           # Project documentation
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
