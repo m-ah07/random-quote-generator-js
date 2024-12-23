@@ -36,3 +36,6 @@ random-quote-generator-js/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+## 🌟 Stay Connected
+Feel free to star ⭐ this repository if you find it helpful!
