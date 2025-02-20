@@ -10,7 +10,7 @@ A simple and interactive random quote generator built using HTML, CSS, and JavaS
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/random-quote-generator-js.git
+    git clone https://github.com/m-ah07/random-quote-generator-js.git
     ```
 
 2. Open index.html in your browser to see the project in action.
